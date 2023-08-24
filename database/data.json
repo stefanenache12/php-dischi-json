@@ -4,20 +4,47 @@
         "name": "Smells Like Teen Spirit",
         "artist": "Nirvana",
         "year": "1991",
-        "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Smells_Like_Teen_Spirit.jpg"
+        "img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Smells_Like_Teen_Spirit.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
     },
     {
         "id": "2",
         "name": "Billie Jean",
         "artist": "Michael Jackson",
         "year": "1982",
-        "img": "https://render.fineartamerica.com/images/rendered/default/poster/8/8/break/images-medium-5/michael-jackson-billie-jean-don-kuing.jpg"
+        "img": "https://render.fineartamerica.com/images/rendered/default/poster/8/8/break/images-medium-5/michael-jackson-billie-jean-don-kuing.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
     },
     {
         "id": "3",
         "name": "Jailhouse Rock",
         "artist": "Elvis Presley",
         "year": "1957",
-        "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Elvis_Presley_Jailhouse_Rock_Single_Cover.jpeg"
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Elvis_Presley_Jailhouse_Rock_Single_Cover.jpeg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
+    },
+    {
+        "id": "4",
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "year": "1975",
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
+    },
+    {
+        "id": "5",
+        "name": "Hotel California",
+        "artist": "The Eagles",
+        "year": "1976",
+        "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
+    },
+    {
+        "id": "6",
+        "name": "I Will Always Love You",
+        "artist": "Whitney Houston",
+        "year": "1974",
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/60/I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque fugit magnam voluptatum autem neque repudiandae suscipit adipisci beatae pariatur. Cumque?"
     }
 ]

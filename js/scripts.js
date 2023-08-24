@@ -4,6 +4,7 @@ createApp({
     data() {
         return {
             albums:[],
+            selectedAlbum: {},
         }
     },
     created() {
@@ -16,5 +17,10 @@ createApp({
             .catch(error => {
                 console.error('Error server:', error);
             });
-    }
+    },
+    methods: {
+        showAlbumInfo(album) {
+            this.selectedAlbum = album; 
+        },
+    },
 }).mount('#app');
